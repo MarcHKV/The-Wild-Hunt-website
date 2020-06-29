@@ -1,2 +1,2 @@
-##The Wild Hunt
-<thewildhunt.nl>
+## The Wild Hunt
+source files for [thewildhunt.nl](www.thewildhunt.nl)
