@@ -2,6 +2,10 @@
 
 /* id = '#' */
 
+html, body{
+    overflow-x: hidden;
+}
+
 .headerlogo {
     margin-top: 8px;
     width: 100px;
@@ -79,6 +83,14 @@ a:any-link :hover {
 
 #fb_news {
     padding-bottom: 26px;
+}
+
+#socials{
+    margin-bottom: 8px;
+}
+
+.showcursor{
+    cursor: pointer;
 }
 
 /* ----------------------------------------------
